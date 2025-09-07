@@ -1,3 +1,3 @@
-CREATE DATABASE IF NOT EXISTS UniversityDB;
-USE UniversityDB;
+CREATE DATABASE `UniversityDB`;
+USE `UniversityDB`;
 SELECT DATABASE();
